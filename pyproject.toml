@@ -8,7 +8,7 @@ version = "0.2.11"
 authors = ["Hanif Yuli Abdillah P <hanifabd23@gmail.com>"]
 repository = "https://github.com/hanifabd/pisahkan-ktp"
 keywords = ["ktp", "segmentation", "segmentasi", "id-card", "identity-card"]
-description = "Python package for detecting entities in text based on a dictionary and fuzzy similarity"
+description = "Python package for detecting information from a ktp / indonesian id card"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
