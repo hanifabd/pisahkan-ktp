@@ -1,2 +1,4 @@
 *.pyc
 src
+tests-adaptive.py
+tests.py
