@@ -19,15 +19,15 @@
 - Returns extracted information in a structured format for easy integration and further processing.
 
 ## Usage
-<!-- ### Manual Installation via Github
+### Manual Installation via Github
 1. Clone Repository
     ```
     git clone https://github.com/hanifabd/pisahkan-ktp
     ```
 2. Installation
     ```
-    cd pisahkan-ktp && pip install .
-    ``` -->
+    cd pisahkan-ktp && pip install dist/pisahkan_ktp-0.2.11-py3-none-any.whl
+    ```
 ### Installation Using Pip
 1. Installation
     ```sh
