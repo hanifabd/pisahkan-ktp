@@ -1,5 +1,2 @@
 *.pyc
 src
-dist
-*.toml
-setup.py
